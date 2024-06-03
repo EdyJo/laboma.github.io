@@ -1,0 +1,24 @@
+# Direktori node_modules untuk dependensi NPM
+node_modules/
+# Direktori vendor untuk dependensi Composer
+vendor/
+# File log dan cache
+*.log
+*.cache
+# File sementara
+tmp/
+# File konfigurasi lokal
+.env
+.local/*
+# File konfigurasi IDE
+.idea/
+# Direktori build
+build/
+# Direktori dist
+dist/
+# File database
+database.sql
+# File konfigurasi server
+server.config.js
+# File konfigurasi database lokal
+db.local.config.js
